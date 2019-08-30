@@ -1,0 +1,34 @@
+{
+  "hints": [],
+  "groups": [
+    {
+      "sourceType": "com.tangu.tanguStudy.lifeCycle.LifeCycleBean",
+      "name": "com.tangu.study.lifeCycle",
+      "type": "com.tangu.tanguStudy.lifeCycle.LifeCycleBean"
+    },
+    {
+      "sourceType": "com.tangu.tanguStudy.configurationProperties.StudyPeoperties",
+      "name": "com.tangu.study.peoperties",
+      "type": "com.tangu.tanguStudy.configurationProperties.StudyPeoperties"
+    }
+  ],
+  "properties": [
+    {
+      "sourceType": "com.tangu.tanguStudy.lifeCycle.LifeCycleBean",
+      "name": "com.tangu.study.lifeCycle.syso",
+      "description": "A description for 'com.tangu.study.lifeCycle.syso'",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "com.tangu.tanguStudy.configurationProperties.StudyPeoperties",
+      "defaultValue": 0,
+      "name": "com.tangu.study.peoperties.integer",
+      "type": "java.lang.Integer"
+    },
+    {
+      "sourceType": "com.tangu.tanguStudy.configurationProperties.StudyPeoperties",
+      "name": "com.tangu.study.peoperties.str",
+      "type": "java.lang.String"
+    }
+  ]
+}
